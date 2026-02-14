@@ -1,2 +1,2 @@
-# pi.hhkb
-Introducing pi.hhkb a completely custom made hhkb style mechanical keyboard @
+# pi.mhkb
+Introducing pi.mhkb a completely custom made hhkb style mechanical keyboard 
