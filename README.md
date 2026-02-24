@@ -1,6 +1,6 @@
 # pi.mhkb
 
-Introducing pi.mhkb, a completely custom made HHKB style mechanical keyboard, all thanks to the amazing folks at Hack Club!
+Introducing pi.mhkb, a completely custom made HHKB style mechanical keyboard
 
 ---
 # Features
@@ -9,14 +9,7 @@ Introducing pi.mhkb, a completely custom made HHKB style mechanical keyboard, al
 2. Custom PCB designed in KiCAD
 3. 3D printed case designed in Fusion 360
 
-## BOM
 
-1. Blank keycaps (HHKB layout)
-2. MX-Style switches
-3. through-hole 1N4148 Diodes
-4. PCB
-5. Microcontroller
-6. 3D printed keyboard case
 
 ## Fusion 360
 
@@ -40,6 +33,7 @@ Introducing pi.mhkb, a completely custom made HHKB style mechanical keyboard, al
 
 * KiCAD -> PCB Design
 * Fusion 360 -> Case design
+* Blender -> Cover Image
 
 ---
 # Bibliography
