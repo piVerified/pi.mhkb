@@ -32,6 +32,23 @@ Introducing pi.mhkb, a completely custom made HHKB style mechanical keyboard
 | ![PCB](https://github.com/piVerified/pi.mhkb/blob/main/assets/Screenshot%202026-04-02%20203157.png) |
 
 ---
+![WIREFRAME](https://github.com/piVerified/pi.mhkb/blob/main/assets/pi.mhkb%20WIREFRAME%20(1).png)
+#BOM
+| Name | Purpose | Quantity | Total Cost (USD) | Distributor |
+| :--- | :--- | ---: | ---: | :--- |
+| PCB | the Brain | 1 | 37.94 | Robu |
+| keycaps | covering the keys | 1 | 14.02 | curiosity caps |
+| usb cable | for connecting and debugging | 1 | 1.72 | Amazon |
+| keyboard Case | Enclousere of the system | 1 | 5.00 | #printinglegion |
+| knob | for rotatory knob | 1 | 3.86 | Curiosity Caps |
+| Stabilizers (set) | for the biggerkeys stability | 1 | 9.37 | KEEBSMOD |
+| Gateron milky yellow | typing | 7 | 14.00 | Meckeys |
+| Hotswap Sockets (set of 10) | to make it hotswapable | 7 | 5.81 | Mecheys |
+| M3x4 mm Brass Heat Set Threaded Round Insert Nut (x25) | for housing screws | 1 | 0.98 | Robu |
+| Raspberry Pi Pico WH | the main controller | 1 | 5.50 | Robu |
+| 1N4148 1W Zener Diode | to prevent ghosting of keys | 70 | 0.70 | Robu |
+
+---
 # Softwares Used
 
 * KiCAD -> PCB Design
