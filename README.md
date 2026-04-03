@@ -1,3 +1,6 @@
+![BANNER](https://github.com/piVerified/pi.mhkb/blob/main/assets/MHKB%20BANNER.jpg)
+
+![COLLAB](https://github.com/piVerified/pi.mhkb/blob/main/assets/PIXHACKCLUB.png)
 # pi.mhkb
 
 Introducing pi.mhkb, a completely custom made HHKB style mechanical keyboard
@@ -17,16 +20,16 @@ Introducing pi.mhkb, a completely custom made HHKB style mechanical keyboard
 
 | Top | Side |
 | :-: | :--: |
-| (coming soon) | (coming soon) |
+| ![TOP](https://github.com/piVerified/pi.mhkb/blob/main/assets/TOP.png) | ![SIDE](https://github.com/piVerified/pi.mhkb/blob/main/assets/SIDE.png)|
 
 ---
 ## KiCAD
 
 | Schematic |
 | :-------: |
-| (coming soon) |
+|![SCHEMATIC](https://github.com/piVerified/pi.mhkb/blob/main/assets/Screenshot%202026-04-02%20203534.png)|
 | PCB |
-| (coming soon) |
+| ![PCB](https://github.com/piVerified/pi.mhkb/blob/main/assets/Screenshot%202026-04-02%20203157.png) |
 
 ---
 # Softwares Used
