@@ -1,0 +1,13 @@
+Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
+"screws","to assemble case and ",20,1.41,"https://onlyscrews.in/products/chhd-m3-x-6mm-pack-of-22?variant=48458858889529","onlyscrews"
+"PCB","the Brain",1,37.94,"https://robu.in/cart/","Robu"
+"keycaps","covering the keys",1,14.02,"https://curiositycaps.in/products/mecha-white-cherry-doubleshot-pbt-keycaps-bag-packaging?variant=50622407770393","curiosity caps"
+"usb cable","for connecting and debugging",1,1.72,"https://www.amazon.in/Portronics-Konnect-POR-1079-Charging-Micro/dp/B08CDKQ8T6?crid=1L5R7S2W3U1HX&dib=eyJ2IjoiMSJ9.LNZGLQXesSn2C_lVkvksKOCVHtsS2YXx8fM41xfoSN1DENHPOQa1jHcTdEhvb2rsiBe-XgMbhe19_ZPNGRnF0tcrGwQgUL0tzXUd3fnfALfCjLhPNWo9CUOJq25rXSo4biTJRLGekDuk1Zx4aYAypbfu391YCXqUWSz7VWrGJY9MkEmehKT7aEwoHd85elYulIasqsMqFc50jNKWU64kFV8n-OiMqdZaXiQcZTf141A.t7rX1pXPnrUakTOnoy6YHYTvibBgyU-HZjxGCCVR4gE&dib_tag=se&keywords=l+micro+usb+cable&qid=1775141445&sprefix=l+micro+usb%2Caps%2C406&sr=8-3","Amazon"
+"keyboard Case","Enclousere of the system",1,5.00,"https://hackclub.enterprise.slack.com/archives/C095YP8GLKT","#printinglegion"
+"knob","for rotatory knob",1,3.86,"https://curiositycaps.in/products/untitled-20oct_19-06?variant=49832025162009","Curiosity Caps"
+"Stabilizers (set)","for the biggerkeys stability",1,9.37,"https://www.keebsmod.com/products/ws-stupid-stabilizer?variant=48977849745706","KEEBSMOD"
+"Gateron milky yellow","typing",7,14.00,"https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/gateron-mechanical-pro-switch-5pin/?attribute_pa_gateron-key-switches=pro-milky-yellow","Meckeys"
+"Hotswap Sockets (set of 10)","to make it hotswapable",7,5.81,"https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/kailh-hot-swap-socket/?attribute_pa_variations=black","Mecheys"
+"M3x4 mm Brass Heat Set  Threaded Round Insert Nut (x25)","for housing screws",1,0.98,"https://robu.in/product/m3-x-4-mm-brass-heat-set-knurl-threaded-round-insert-nut-25-pcs/","Robu"
+"Raspberry Pi Pico WH","the main controller",1,5.50,"https://robu.in/product/raspberry-pi-pico-with-headers/","Robu"
+"1N4148 1W Zener Diode","to prevent ghosting of keys",70,0.70,"https://robu.in/product/1n4148-1w-zener-diode-pack-of-50/","Robu"
